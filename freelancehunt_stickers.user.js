@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Custom Sticker for Freelancehunt
 // @description  Add a custom sticker to Freelancehunt mailbox
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    ttps://github.com/stanislavlysenko0912/freelancehunt-stickers/
+// @version      0.2
 // @description  Add a custom sticker to Freelancehunt mailbox
 // @author       stanislavlysenko0912
 // @supportURL   https://github.com/stanislavlysenko0912/freelancehunt-stickers/issues
