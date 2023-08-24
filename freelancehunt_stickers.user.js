@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         Custom Sticker for Freelancehunt
 // @description  Add a custom sticker to Freelancehunt mailbox
-// @namespace    ttps://github.com/stanislavlysenko0912/freelancehunt-stickers/
-// @version      0.2
+// @namespace    https://github.com/stanislavlysenko0912/freelancehunt-stickers/
+// @version      0.2.1
 // @description  Add a custom sticker to Freelancehunt mailbox
 // @author       stanislavlysenko0912
 // @supportURL   https://github.com/stanislavlysenko0912/freelancehunt-stickers/issues
 // @icon				 https://freelancehunt.com/static/images/apple-touch-icon.png
 // @match        https://freelancehunt.com/mailbox/read/thread/*
+// @match        https://freelancehunt.work/mailbox/read/thread/*
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_addStyle
